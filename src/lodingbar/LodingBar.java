@@ -29,6 +29,7 @@ public class LodingBar {
         System.out.println("\nLoading completed!");
  
 		 
+
 		
 //	        while (true) {
 //	        	
