@@ -6,6 +6,7 @@ public class LodingBar {
 	 {
 		 
 		 
+
 		 
 		 
 // 			 
@@ -54,7 +55,7 @@ public class LodingBar {
 //	            } catch (InterruptedException e) {
 //	                e.printStackTrace();
 //	            }
-//	        }
+//	 Â Â Â Â Â Â Â }
 
 
 
