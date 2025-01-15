@@ -25,6 +25,7 @@ public class LodingBar {
 	        	System.out.print('\u0007');
 	            Thread.sleep(200); // Simulate a time-consuming task
 	           
+
 	        }
         System.out.println("\nLoading completed!");
  
